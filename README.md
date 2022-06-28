@@ -1,5 +1,5 @@
 # GENRE CLASSIFICATION OF SONGS
-
+![SV_0220_Keshri_Social](https://user-images.githubusercontent.com/85668824/176226290-2a67362a-a7ea-496c-a60c-75350672a234.jpg)
 ## What is Genre classification and why is it needed? 
 
 Genre classification is the process of grouping objects together based on defined similarities such as subject, format, style, or purpose. Gender classification creates conceptual links between different objects that can be used to improve navigation functionality and can be further developed into personalized research or marketing tools. Companies nowadays use music classification, either to be able to place recommendations to their customers (such as Spotify, Soundcloud) or simply as a product
